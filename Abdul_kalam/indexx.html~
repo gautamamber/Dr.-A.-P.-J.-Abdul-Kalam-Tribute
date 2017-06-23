@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html lang = "en-US">
+<head>
+<meta caharset ="UTF=8">
+<meta http-equiv="X-UA compatible" content = "IE">
+<meta name="viewport" content = "width=device-width, initial-scale = 1">
+<link rel = "stylesheet" href = "css/bootstrap.css"/>
+<link rel = "stylesheet" herf = "css/style.css"/>
+<style>
+.hel{text-align: center;font-family: "Times New Roman", Times, serif;padding: none;}
+
+.baby{ padding-top: 60px;}
+
+.date { padding-top: 80px;}
+
+</style>
+<body>
+
+<script type = "text/javascript" scr = js/bootstrap.js ">
+</script>
+<div  class=" container-fluid hel">
+<h1 style="font-size:70px;background:black;color:white"> BILL GATES <h1>
+</div>
+<nav class = "navbar navbar-default navbar-fixed-top">
+<div class = "container">
+<button type = "button" class = "navbar-toogle">
+<span class = "icon-bar"></span>
+</button>
+<ul>
+<li> hello</li>
+<li> baby</li>
+<li> bro</li>
+</ul>
+</div>
+</nav>
+<div class = "container baby" style = "background:darkgrey">
+<div class = "row">
+<div class = "col-sm-6 col-xs-12">
+<img src ="images/bill.jpg" class = "img-responsive img-circle" alt = "" height = 500 width = 1000>
+</div>
+<div class = "col-sm-6 col-xs-12 date"> 
+<h1 style="font-family: Times New Roman; color: white"> "Dont compare yourself with anyone in this world... if you do so you are insulting yourself." </h1> 
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-2  hel date border">
+<h1> 1998</h1>
+</div>
+<div class = "col-xs-10">
+<h1 style="font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-6 col-xs-12 hel date">
+<h1 style="font-family: Times New Roman"> 1998</h1>
+</div>
+<div class = "col-sm-6 col-xs-12">
+<h1 style="font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-6 col-xs-12 hel date">
+<h1 "font-family: Times New Roman"> 1998</h1>
+</div>
+<div class = "col-sm-6 col-xs-12">
+<h1 style="font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-6 col-xs-12 hel date">
+<h1 font-family: Times New Roman"> 1998</h1>
+</div>
+<div class = "col-sm-6 col-xs-12">
+<h1 style="font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-6 col-xs-12 hel date">
+<h1 "font-family: Times New Roman"> 1998</h1>
+</div>
+<div class = "font-family: Times New Roman">
+<h1 "font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-6 col-xs-12 hel date">
+<h1 "font-family: Times New Roman"> 1998</h1>
+</div>
+<div class = "col-sm-6 col-xs-12">
+<h1 "font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container baby" >
+<div class = "row" >
+<div class = "col-sm-6 col-xs-12 hel date">
+<h1 "font-family: Times New Roman"> 1998</h1>
+</div>
+<div class = "col-sm-6 col-xs-12">
+<h1 "font-family: Times New Roman"> Bill gates originall name was bill henery gates. he is the founder of worlds largest use operating systam microsoft</h1>
+</div>
+</div>
+</div>
+<div class = "container-fluid hel">
+<h5 style ="font-family: Times New Roman; margin-top:20px; background:grey;font-size:40px">Created by: Amber Gautam</h3>
+</div>
+
+
+</body>
+
+</html>

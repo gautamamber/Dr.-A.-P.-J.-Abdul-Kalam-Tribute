@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<html lang = "en-US">
+<meta caharset ="UTF=8">
+<meta http-equiv="X-UA compatible" content = "IE">
+<meta name="viewport" content = "width=device-width, initial-scale = 1">
+<link rel = "stylesheet" href = "css/bootstrap.css"/>
+<link rel = "stylesheet" herf = "Webpage responsive/style.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<style>
+.top_bar{background: black;height: 70px; font-size:50px;}
+.top_bar_text{color: white; text-align:center; font-family: "Times New Roman", Times, serif;}
+.center_text{margin-top:100px;font-family: "Times New Roman", Times, serif;}
+.year{text-align:center;}
+.quote{font-family: "Times New Roman", Times, serif;}
+.timeline{margin-bottom:30px;margin-top:30px;font-family: "Times New Roman", Times, serif;padding-left:30px;}
+.time_line{text-align:center; font-size:70px;font-family: "Times New Roman", Times, serif;}
+hr { border-width: 5px;} 
+#parent {padding:  15% 15%;}
+.footer{background: black;height: 40px; }
+.nav_text{color:black;}
+.images_padd{margin-top:30px;}
+
+</style>
+
+<body>
+<div class = "container-fluid top_bar top_bar_text">
+<h1>Dr. A. P. J .Abdul Kalam</h1>
+</div>
+<div class = "container-fluid top_bar top_bar_text">
+<h3><i>1931 - 2015</i></h3>
+</div>
+<nav class="navbar nav_text">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Awesome pics</a></li>
+        <li><a href="#">Quotes</a></li>
+      </ul>
+      
+       
+    </div>
+  </div>
+</nav>
+<div class = "container-fluid ">
+<div class = "row">
+<div class = "col-xs-12 time_line">
+Memories
+</div>
+</div>
+</div>
+
+<div class = "container-fluid ">
+<div class = "row">
+<div class = "col-md-4 col-sm-8 col-xs-12 ">
+<img src ="images/ak1.jpg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-8 col-xs-12">
+<img src ="images/ak2.jpg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-8 col-xs-12">
+<img src ="images/ak3.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+
+</div>
+</div>
+
+<div class = "container-fluid images_padd">
+<div class = "row">
+
+<div class = "col-md-4 col-sm-6 col-xs-12">
+<img src ="images/ak6.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-6 col-xs-12">
+<img src ="images/abdul-kalam.jpg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-6 col-xs-12">
+<img src ="images/ak8.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+</div>
+</div>
+
+<div class = "container-fluid images_padd">
+<div class = "row">
+
+<div class = "col-md-4 col-sm-8 col-xs-12">
+<img src ="images/images.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-8 col-xs-12">
+<img src ="images/ak11.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-8 col-xs-12">
+<img src ="images/ak12.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+</div>
+</div>
+
+<div class = "container-fluid images_padd">
+<div class = "row">
+
+<div class = "col-md-4 col-sm-8 col-xs-12 ">
+<img src ="images/ak5.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-8 col-xs-12">
+<img src ="images/ak4.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+<div class = "col-md-4 col-sm-8 col-xs-12 ">
+<img src ="images/ak9.jpeg"  class = "img-responsive" alt = "" style="height:450px;">
+</div>
+</div>
+</div>
+
+<div class = "container-fluid top_bar_text footer images_padd">
+<h4>Created by: Amber Gautam</h4>
+</div>
+</body>
+</html>
