@@ -3,12 +3,27 @@
 <meta caharset ="UTF=8">
 <meta http-equiv="X-UA compatible" content = "IE">
 <meta name="viewport" content = "width=device-width, initial-scale = 1">
-<link rel = "stylesheet" href = "css/bootstrap.css"/>
-<link rel = "stylesheet" herf = "Webpage responsive/style.css"/>
+
+<link rel = "stylesheet" herf = "css/style.css"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
+<style>
+.menu{background:black;font-family: "Times New Roman", Times, serif;}
+.menu_text{text-align:center;}
+.top_bar{background: black;height: 70px; font-size:50px;}
+.top_bar_text{color: white; text-align:center; font-family: "Times New Roman", Times, serif;}
+.center_text{margin-top:100px;font-family: "Times New Roman", Times, serif;}
+.year{text-align:center;}
+.quote{font-family: "Times New Roman", Times, serif;}
+.timeline{margin-bottom:30px;margin-top:30px;font-family: "Times New Roman", Times, serif;padding-left:30px;}
+.time_line{text-align:center; font-size:70px;font-family: "Times New Roman", Times, serif;}
+hr { border-width: 5px;} 
+.link{color:blue;text-align:center;font-size:70px;font-family: "Times New Roman, Times, serif;"}
+#parent {padding:  15% 15%;}
+.footer{background: black;height: 40px; }
 
+</style>
 
 <body>
 <div class = "container-fluid top_bar top_bar_text">
@@ -17,6 +32,17 @@
 <div class = "container-fluid top_bar top_bar_text">
 <h3><i>1931 - 2015</i></h3>
 </div>
+<div class = "container-fluid menu">
+<div class = "row">
+<div class = "col-sm-6 col-xs-12 menu_text">
+<h3><a href = "#timeline"> Timeline</a></h3>
+</div>
+<div class = "col-sm-6 col-xs-12 menu_text">
+<h3><a href = "#quotes">Famous Quotes by Dr. Kalam</a></h3>
+</div>
+</div>
+</div>
+
 <div class = "container-fluid ">
 <div class = "row">
 <div class = "col-sm-6 col-xs-12">
@@ -29,7 +55,7 @@
 </div>
 </div>
 
-<div class = "container-fluid ">
+<div class = "container-fluid "id = "timeline">
 <div class = "row">
 <div class = "col-xs-12 time_line">
 Timeline
@@ -133,8 +159,126 @@ Timeline
 </div>
 </div>
 </div>
-<div class = "container-fluid link">
-<h2><a href = "#"><b>Famous quotes by Dr. Kalam</b></a></h2>
+
+
+
+<div class = "container-fluid" id = "quotes">
+<div class = "row">
+<div class = "col-xs-12 time_line">
+Quotes
+</div>
+</div>
+</div>
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b> Dont take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>All Birds find shelter during a rain. But Eagle avoids rain by flying above the Clouds</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Man needs difficulties in life because they are necessary to enjoy the success</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>If you want to shine like a sun. First burn like a sun</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Thinking should become your capital asset, no matter whatever ups and downs you come across in your life</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Be more dedicated to making solid achievements than in running after swift but synthetic happiness</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b> If you not face any difficulties then check your path, you might going on wrong track.  And everyone knows the feeling of completing difficult task, students better fill the success while completing exam.</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Do Not stop Until you Finish your work, And Once you finish plan for the Next big goal</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Without your involvement you can't succeed. With your involvement you can't fail</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>For me, there are two types of people: the young and the experienced</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Dream, Dream, Dream, Dreams transform into thoughts. And thoughts result in action </b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>It is very easy to DEFEAT someone, But it is very hard to WIN someone</b><hr></h1>
+</div>
+</div>
+</div>
+
+<div class = "container timeline " >
+<div class = "row" >
+<div class = "col-xs-12 ">
+<h1> <b>Change your habits and it will brings some light in your life.</b><hr></h1>
+</div>
+</div>
 </div>
 
 <div class = "container-fluid top_bar_text footer">
